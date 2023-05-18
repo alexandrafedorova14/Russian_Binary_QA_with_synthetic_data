@@ -49,3 +49,11 @@
 |Precision| 0.57  | 0.71  |
 |Recall| 0.85  | 0.35 |
 |F-1|0.68  | 0.47  |
+
+--- 
+
+Поскольку модели довольно много весят, они не помещаются в репозиторий. Все веса моделей после тонкой настроки можно найти на гугл-диске:
+
+fine-tuning на исходном DaNetQA – https://drive.google.com/drive/folders/1fScAc4ikTFAnud6S-AJZyxMa5JvCCfVR?usp=share_link
+fine-tuning на DaNetQA с синтетическими данными, полученными с помощью p-tuning-а ruGPT-3 – https://drive.google.com/drive/folders/1-ZTrCkJK9wky7iV_mxK0kHCon0qJu__S?usp=share_link
+fine-tuning на DaNetQA с синтетическими данными, полученными с помощью rule-based генерации и перефразирования – https://drive.google.com/drive/folders/1FzXTyTUT8pUlepd32i9mTyiLnXvtVHjP?usp=share_link
