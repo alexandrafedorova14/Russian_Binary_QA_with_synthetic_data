@@ -101,8 +101,13 @@
 |F-1| 0.82  | 0.83  |
 
 ---
---- 
 Поскольку модели довольно много весят, они не помещаются в репозиторий. Все веса моделей после p-tuning-а можно найти на гугл-диске: 
-* p-tuning на исходном DaNetQA – https://drive.google.com/drive/folders/1WLydIM1FqCsK5WH2sL4h8vKLxZDSrq6V?usp=share_link
-* p-tuning на DaNetQA с синтетическими данными, полученными с помощью p-tuning-а ruGPT-3  https://drive.google.com/drive/folders/1S4-fRQoSWRa7mDb1WZznlzsTyD_B68ws?usp=share_link
-* p-tuning на DaNetQA с синтетическими данными, полученными с помощью rule-based генерации и перефразирования – https://drive.google.com/drive/folders/1rgz9LOla8iWkIJtOVZMl-BJhmbG3dm8b?usp=share_link
+1. ruBERT:
+    * p-tuning на исходном DaNetQA – https://drive.google.com/drive/folders/1WLydIM1FqCsK5WH2sL4h8vKLxZDSrq6V?usp=share_link
+    * p-tuning на DaNetQA+RB – https://drive.google.com/drive/folders/1rgz9LOla8iWkIJtOVZMl-BJhmbG3dm8b?usp=share_link
+    * p-tuning на DaNetQA+PT  https://drive.google.com/drive/folders/1S4-fRQoSWRa7mDb1WZznlzsTyD_B68ws?usp=share_link
+--- 
+2. ruRoBERTa: 
+    * p-tuning на исходном DaNetQA – 
+    * p-tuning на DaNetQA+RB – 
+    * p-tuning на DaNetQA+PT  
