@@ -101,6 +101,6 @@
 --- 
 2. ruRoBERTa: 
     * fine-tuning на исходном DaNetQA – 
-    * fine-tuning на DaNetQA+RB – 
-    * fine-tuning на DaNetQA+PT – 
+    * fine-tuning на DaNetQA+RB – https://drive.google.com/drive/folders/1-Ghl3VUgB0vaQPdo1dt64vbRko_8voVw?usp=share_link
+    * fine-tuning на DaNetQA+PT – https://drive.google.com/drive/folders/1IcYerBcWuybu79sZ70awEolwEIGq3FML?usp=share_link
 
